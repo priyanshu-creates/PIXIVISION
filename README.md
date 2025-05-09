@@ -31,7 +31,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/apipixivision.git
+git clone https://github.com/yourusername/pixivision.git
 cd apipixivision
 
 # 2. Install dependencies
