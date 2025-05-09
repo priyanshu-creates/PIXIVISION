@@ -1,4 +1,4 @@
-# 🧠 APIPIXIVISION
+# 🧠 PIXIVISION
 
 *A Vision-Powered AI Image Classifier & Description Generator*
 
