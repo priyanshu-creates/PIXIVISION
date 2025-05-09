@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 Click to try APIPIXIVISION](https://pixivision.vercel.app) <!-- Replace with your deployed link -->
+[🔗 Click to try PIXIVISION](https://pixivision.vercel.app) <!-- Replace with your deployed link -->
 
 ---
 
